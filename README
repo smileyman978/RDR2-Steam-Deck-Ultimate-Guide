@@ -1,0 +1,7 @@
+echo "# RDR2-Steam-Deck-Ultimate-Guide" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/smileyman978/RDR2-Steam-Deck-Ultimate-Guide.git
+git push -u origin main
